@@ -1,3 +1,4 @@
+<img src="https://www.linkedin.com/in/nomi-raja/overlay/background-image/" alt="nomi2k4" width="400" height="600">
 <h1 align="center">Hi 👋, I'm Nouman Naeem</h1>
 <h3 align="center">A Cybersecurity Student from pakistan</h3>
 
