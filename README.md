@@ -1,4 +1,4 @@
-<img src="https://github.com/nomi2k4/nomi2k4/blob/main/nomi2k4.jpeg" alt="nomi2k4" width="1300" height="300">
+<img src="https://github.com/nomi2k4/nomi2k4/blob/main/nomi2k4.jpeg" alt="nomi2k4" width="1300" height="250">
 <h1 align="center">Hi 👋, I'm Nouman Naeem</h1>
 <h3 align="center">A Cybersecurity Student from pakistan</h3>
 
