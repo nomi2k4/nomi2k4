@@ -1,6 +1,6 @@
 <img src="https://github.com/nomi2k4/nomi2k4/blob/main/nomi2k4.jpeg" alt="nomi2k4" width="1300" height="250">
 <h1 align="center">Hi👋, I'm Nouman Naeem</h1>
-<h3 align="center">A Cybersecurity Student from PakistanU+1F1F5 U+1F1F0	&#127477 &#127472</h3>
+<h3 align="center">A Cybersecurity Student from Pakistan</h3>
 
 - 👨‍💻 I’m currently studing **BS Cybersecurity**
 
